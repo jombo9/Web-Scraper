@@ -1,7 +1,7 @@
 # Web-Scraper
 A web scraper is a program that sends HTTP requests to a web server, 
 retrieves the HTML content of a web page and then extracts useful information from it.
-#This is a basic web scraper that :
+# This is a basic web scraper that :
    1.requests the HTML content of a specified webpage (in this case, "https://example.com") using the http,
    2.Get functionEnsures the request was successful.
    3.Parses the HTML document.
